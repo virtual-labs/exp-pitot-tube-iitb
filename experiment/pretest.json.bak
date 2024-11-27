@@ -1,0 +1,20 @@
+[
+    {
+        "question": "Discharge through orifice is given by",
+        "qid": 1,
+        "option_a": "$$ \\frac{C_d a_0 a_1 \\sqrt{2gh}}{\\sqrt{a_1^2 - a_2^2}} $$",
+        "option_b": "$$ \\frac{C_d a_0 a_1 \\sqrt{gh}}{\\sqrt{a_1^2 - a_2^2}} $$",
+        "option_c": "$$ \\frac{C_d a_0 a_1 \\sqrt{2gh}}{\\sqrt{a_2^2 - a_2^2}} $$",
+        "option_d": "$$ \\frac{C_d a_0 a_1 \\sqrt{2gh}}{\\sqrt{a_2^2}} $$",
+        "correct_option": "a"
+    },
+    {
+        "question": "Velocity of flow by pitot tube is",
+        "qid": 2,
+        "option_a": "$$ C_v \\sqrt{gh} $$",
+        "option_b": "$$ C_v 2gh $$",
+        "option_c": "$$ C_v \\sqrt{2gh} $$",
+        "option_d": "$$ \\sqrt{2gh} $$",
+        "correct_option": "c"
+    }
+]
