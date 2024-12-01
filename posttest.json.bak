@@ -1,0 +1,20 @@
+[
+   {
+      "question": "A pitot tube is placed at the centre of pipe having diameter 273 mm. The rise of water level in the pitot tube is h = 8 mm. Take coefficient of velocity CV = 0.98. If average velocity is 0.84 times the velocity at the centre, find the total discharge.",
+      "qid": 1,
+      "option_a": "22.64 lit/sec",
+      "option_b": "17.08 lit/sec",
+      "option_c": "20.17 lit/sec",
+      "option_d": "19.09 lit/sec",
+      "correct_option": "d"
+   },
+   {
+      "question": "A pitot tube is placed at the centre of pipe having diameter 387 mm. The rise of water level in the pitot tube is h = 25 mm. Take coefficient of velocity CV = 0.98. If average velocity is 0.72 times the velocity at the centre, find the total discharge.",
+      "qid": 2,
+      "option_a": "67.44 lit/sec",
+      "option_b": "58.12 lit/sec",
+      "option_c": "52.97 lit.sec",
+      "option_d": "63.72 lit/sec",
+      "correct_option": "b"
+   }
+]

@@ -1,0 +1,250 @@
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/common_libraries/js/ts_components/collapse_step.js
+   1:10  warning  'show_step' is defined but never used                 no-unused-vars
+   2:5   warning  '$' is not defined                                    no-undef
+   3:9   warning  '$' is not defined                                    no-undef
+   6:10  warning  'hide_step' is defined but never used                 no-unused-vars
+   7:5   warning  '$' is not defined                                    no-undef
+   8:9   warning  '$' is not defined                                    no-undef
+  11:10  warning  'get_collapse_btn_text' is defined but never used     no-unused-vars
+  20:10  warning  'get_collapse_btn_element' is defined but never used  no-unused-vars
+  29:10  warning  'hide_all_steps' is defined but never used            no-unused-vars
+  31:9   warning  '$' is not defined                                    no-undef
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/common_libraries/js/ts_components/matrix.js
+   27:26  warning  'MathJax' is not defined                                no-undef
+   32:7   warning  'Matrix_Without_String' is defined but never used       no-unused-vars
+   52:26  warning  'MathJax' is not defined                                no-undef
+   56:10  warning  'get_matrix_html' is defined but never used             no-unused-vars
+   87:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+   99:10  warning  'get_matrix_html_with_title' is defined but never used  no-unused-vars
+  131:13  warning  'row_html' is assigned a value but never used           no-unused-vars
+  143:10  warning  'convert_2d_to_1d_vector' is defined but never used     no-unused-vars
+  156:10  warning  'convert_1d_to_2d_matrix' is defined but never used     no-unused-vars
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/common_libraries/js/ts_components/pannel.js
+  8:7  warning  'Pannel' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/common_libraries/js/ts_components/questions.js
+   6:17  warning  'op1' is assigned a value but never used      no-unused-vars
+   7:17  warning  'op2' is assigned a value but never used      no-unused-vars
+   8:17  warning  'op3' is assigned a value but never used      no-unused-vars
+   9:17  warning  'op4' is assigned a value but never used      no-unused-vars
+  94:7   warning  'Question_Options' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/common_libraries/js/ts_components/tables.js
+   19:22  warning  'verify_values' is not defined                                     no-undef
+  137:22  warning  'verify_values' is not defined                                     no-undef
+  260:7   warning  'Verify_Rows_Cols_6_decimal_places' is defined but never used      no-unused-vars
+  311:22  warning  'verify_values' is not defined                                     no-undef
+  416:7   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is defined but never used  no-unused-vars
+  468:7   warning  'Show_Table_Custom_Fixed' is defined but never used                no-unused-vars
+  506:7   warning  'Verify_Rows_Cols_Strings' is defined but never used               no-unused-vars
+  527:22  warning  'verify_values' is not defined                                     no-undef
+  663:7   warning  'Display_Table' is defined but never used                          no-unused-vars
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/common_libraries/js/ts_math_library/general_math_functions.js
+    1:10  warning  'verify_values' is defined but never used                   no-unused-vars
+   17:10  warning  'random1' is defined but never used                         no-unused-vars
+   21:10  warning  'std_deviation' is defined but never used                   no-unused-vars
+   26:10  warning  'gauss' is defined but never used                           no-unused-vars
+   56:10  warning  'hide_panel' is defined but never used                      no-unused-vars
+   63:10  warning  'inverse_matrix' is defined but never used                  no-unused-vars
+   96:10  warning  'matrix_multiplication' is defined but never used           no-unused-vars
+  113:10  warning  'transpose_matrix' is defined but never used                no-unused-vars
+  123:10  warning  'matrix_multiplication_8decimal' is defined but never used  no-unused-vars
+  140:10  warning  'adjoint_2x2_matrix' is defined but never used              no-unused-vars
+  145:10  warning  'find_deteminant' is defined but never used                 no-unused-vars
+  174:10  warning  'get_Submatrix' is defined but never used                   no-unused-vars
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/common_libraries/js/ts_math_library/regression.js
+   1:10  warning  'regression_linear' is defined but never used            no-unused-vars
+  18:10  warning  'regression_linear_1variable' is defined but never used  no-unused-vars
+  27:10  warning  'regression_linear_2variable' is defined but never used  no-unused-vars
+  52:11  warning  'gauss' is not defined                                   no-undef
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/common_libraries/math.ob.js
+  1:745  warning  'b' is already defined  no-redeclare
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/js/activity1.js
+   19:24   warning  'MathJax' is not defined                no-undef
+   22:10   warning  'start_act1' is defined but never used  no-unused-vars
+   27:20   warning  'get_collapse_btn_text' is not defined  no-undef
+   32:76   warning  'dia' is not defined                    no-undef
+   32:136  warning  'h' is not defined                      no-undef
+   32:264  warning  'avtimes' is not defined                no-undef
+   55:32   warning  'avtimes' is not defined                no-undef
+   81:5    warning  'hide_all_steps' is not defined         no-undef
+   82:24   warning  'show_step' is not defined              no-undef
+   83:24   warning  'MathJax' is not defined                no-undef
+   87:5    warning  'V' is not defined                      no-undef
+   87:9    warning  'cv' is not defined                     no-undef
+   87:28   warning  'g' is not defined                      no-undef
+   87:32   warning  'h' is not defined                      no-undef
+   88:5    warning  'avel' is not defined                   no-undef
+   88:12   warning  'avtimes' is not defined                no-undef
+   88:22   warning  'V' is not defined                      no-undef
+   89:5    warning  'Q' is not defined                      no-undef
+   89:36   warning  'dia' is not defined                    no-undef
+   89:55   warning  'avel' is not defined                   no-undef
+   90:5    warning  'Q_lit' is not defined                  no-undef
+   90:13   warning  'Q' is not defined                      no-undef
+   92:10   warning  'verify0' is defined but never used     no-unused-vars
+   94:25   warning  'V' is not defined                      no-undef
+   95:29   warning  'avel' is not defined                   no-undef
+   96:25   warning  'Q' is not defined                      no-undef
+   97:34   warning  'Q_lit' is not defined                  no-undef
+  106:10   warning  'verify_values' is not defined          no-undef
+  106:82   warning  'V' is not defined                      no-undef
+  110:10   warning  'verify_values' is not defined          no-undef
+  110:82   warning  'avel' is not defined                   no-undef
+  114:10   warning  'verify_values' is not defined          no-undef
+  114:82   warning  'Q' is not defined                      no-undef
+  118:10   warning  'verify_values' is not defined          no-undef
+  118:82   warning  'Q_lit' is not defined                  no-undef
+  124:25   warning  'V' is not defined                      no-undef
+  126:25   warning  'avel' is not defined                   no-undef
+  128:25   warning  'Q' is not defined                      no-undef
+  130:25   warning  'Q_lit' is not defined                  no-undef
+  133:5    warning  'activity2' is not defined              no-undef
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/js/activity2.js
+    1:10   warning  'activity2' is defined but never used                   no-unused-vars
+   16:5    warning  'maindiv' is not defined                                no-undef
+   17:24   warning  'MathJax' is not defined                                no-undef
+   19:10   warning  'start_act2' is defined but never used                  no-unused-vars
+   24:20   warning  'get_collapse_btn_text' is not defined                  no-undef
+   29:76   warning  'dia2' is not defined                                   no-undef
+   29:194  warning  'avtimes2' is not defined                               no-undef
+   40:5    warning  'maindiv' is not defined                                no-undef
+   42:24   warning  'show_step' is not defined                              no-undef
+   43:24   warning  'MathJax' is not defined                                no-undef
+   49:9    warning  'h2' is not defined                                     no-undef
+   50:9    warning  'H' is not defined                                      no-undef
+   50:23   warning  'h2' is not defined                                     no-undef
+   53:9    warning  'V2' is not defined                                     no-undef
+   53:34   warning  'g' is not defined                                      no-undef
+   53:39   warning  'h2' is not defined                                     no-undef
+   54:36   warning  'avtimes2' is not defined                               no-undef
+   55:9    warning  'avel2' is not defined                                  no-undef
+   55:17   warning  'avtimes2' is not defined                               no-undef
+   55:28   warning  'V2' is not defined                                     no-undef
+   56:9    warning  'Q2' is not defined                                     no-undef
+   56:41   warning  'dia2' is not defined                                   no-undef
+   56:61   warning  'avel2' is not defined                                  no-undef
+   57:9    warning  'vbar' is not defined                                   no-undef
+   57:16   warning  'Q2' is not defined                                     no-undef
+   57:49   warning  'dia2' is not defined                                   no-undef
+   58:9    warning  'newv' is not defined                                   no-undef
+   58:16   warning  'vbar' is not defined                                   no-undef
+   58:23   warning  'avtimes2' is not defined                               no-undef
+   59:9    warning  'h2_data' is not defined                                no-undef
+   59:22   warning  'h2' is not defined                                     no-undef
+   60:9    warning  'H_data' is not defined                                 no-undef
+   60:32   warning  'H' is not defined                                      no-undef
+   61:9    warning  'Q2_data' is not defined                                no-undef
+   61:33   warning  'Q2' is not defined                                     no-undef
+   62:9    warning  'V2_data' is not defined                                no-undef
+   62:33   warning  'vbar' is not defined                                   no-undef
+   63:9    warning  'newv_data' is not defined                              no-undef
+   63:35   warning  'newv' is not defined                                   no-undef
+   64:9    warning  'table_data' is not defined                             no-undef
+   64:26   warning  'h2_data' is not defined                                no-undef
+   64:38   warning  'Q2_data' is not defined                                no-undef
+   64:50   warning  'V2_data' is not defined                                no-undef
+   64:62   warning  'newv_data' is not defined                              no-undef
+   66:27   warning  'h2_data' is not defined                                no-undef
+   67:26   warning  'H_data' is not defined                                 no-undef
+   68:27   warning  'Q2_data' is not defined                                no-undef
+   69:27   warning  'V2_data' is not defined                                no-undef
+   70:30   warning  'newv_data' is not defined                              no-undef
+   76:19   warning  'Verify_Rows_Cols_Custom_Fixed_Update1' is not defined  no-undef
+   76:65   warning  'table_data' is not defined                             no-undef
+   83:20   warning  'get_collapse_btn_text' is not defined                  no-undef
+   96:5    warning  'maindiv' is not defined                                no-undef
+   98:24   warning  'show_step' is not defined                              no-undef
+   99:24   warning  'MathJax' is not defined                                no-undef
+  103:17   warning  'regression_linear_1variable' is not defined            no-undef
+  103:45   warning  'H_data' is not defined                                 no-undef
+  103:53   warning  'newv_data' is not defined                              no-undef
+  105:19   warning  'H_data' is not defined                                 no-undef
+  107:9    warning  'Y' is not defined                                      no-undef
+  109:26   warning  'Y' is not defined                                      no-undef
+  124:21   warning  'Chart' is not defined                                  no-undef
+  127:21   warning  'H_data' is not defined                                 no-undef
+  131:27   warning  'newv_data' is not defined                              no-undef
+  143:27   warning  'Y' is not defined                                      no-undef
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/js/activity3.js
+   1:10  warning  'start_act3' is defined but never used  no-unused-vars
+   6:20  warning  'get_collapse_btn_text' is not defined  no-undef
+  36:5   warning  'maindiv' is not defined                no-undef
+  38:24  warning  'show_step' is not defined              no-undef
+  39:24  warning  'MathJax' is not defined                no-undef
+  40:5   warning  'plot' is not defined                   no-undef
+  45:5   warning  'slope' is not defined                  no-undef
+  45:14  warning  'Y' is not defined                      no-undef
+  45:16  warning  'Y' is not defined                      no-undef
+  45:32  warning  'Y' is not defined                      no-undef
+  45:41  warning  'H_data' is not defined                 no-undef
+  45:48  warning  'H_data' is not defined                 no-undef
+  45:69  warning  'H_data' is not defined                 no-undef
+  46:5   warning  'calculated_cv' is not defined          no-undef
+  46:21  warning  'slope' is not defined                  no-undef
+  46:43  warning  'g' is not defined                      no-undef
+  48:10  warning  'verify5' is defined but never used     no-unused-vars
+  50:29  warning  'slope' is not defined                  no-undef
+  50:45  warning  'calculated_cv' is not defined          no-undef
+  55:10  warning  'verify_values' is not defined          no-undef
+  55:47  warning  'slope' is not defined                  no-undef
+  59:10  warning  'verify_values' is not defined          no-undef
+  59:48  warning  'calculated_cv' is not defined          no-undef
+  66:23  warning  'slope' is not defined                  no-undef
+  68:24  warning  'calculated_cv' is not defined          no-undef
+  69:5   warning  'maindiv' is not defined                no-undef
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/js/data.js
+   2:5  warning  'dia' is assigned a value but never used            no-unused-vars
+   3:5  warning  'h' is assigned a value but never used              no-unused-vars
+   5:1  warning  'avtimes' is assigned a value but never used        no-unused-vars
+   6:5  warning  'V' is assigned a value but never used              no-unused-vars
+   7:5  warning  'cv' is assigned a value but never used             no-unused-vars
+   8:5  warning  'g' is assigned a value but never used              no-unused-vars
+   9:5  warning  'avel' is assigned a value but never used           no-unused-vars
+  10:5  warning  'Q' is assigned a value but never used              no-unused-vars
+  11:5  warning  'Q_lit' is assigned a value but never used          no-unused-vars
+  13:5  warning  'dia2' is assigned a value but never used           no-unused-vars
+  14:5  warning  'phead' is assigned a value but never used          no-unused-vars
+  16:1  warning  'avtimes2' is assigned a value but never used       no-unused-vars
+  17:5  warning  'h2' is assigned a value but never used             no-unused-vars
+  18:5  warning  'H' is defined but never used                       no-unused-vars
+  19:5  warning  'H_data' is assigned a value but never used         no-unused-vars
+  20:5  warning  'V2' is assigned a value but never used             no-unused-vars
+  21:5  warning  'avel2' is assigned a value but never used          no-unused-vars
+  22:5  warning  'Q2' is defined but never used                      no-unused-vars
+  23:5  warning  'Q2_data' is assigned a value but never used        no-unused-vars
+  24:5  warning  'vbar' is assigned a value but never used           no-unused-vars
+  25:5  warning  'newv' is assigned a value but never used           no-unused-vars
+  26:5  warning  'h2_data' is assigned a value but never used        no-unused-vars
+  27:5  warning  'V2_data' is assigned a value but never used        no-unused-vars
+  28:5  warning  'newv_data' is assigned a value but never used      no-unused-vars
+  29:5  warning  'calculated_cv' is assigned a value but never used  no-unused-vars
+  30:5  warning  'table_data' is assigned a value but never used     no-unused-vars
+  32:5  warning  'Y' is assigned a value but never used              no-unused-vars
+  33:5  warning  'X' is assigned a value but never used              no-unused-vars
+  35:5  warning  'slope' is assigned a value but never used          no-unused-vars
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/js/gauss_ele.js
+  42:10  warning  'gauss_ele' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/js/screen_size.js
+  1:10  warning  'set_screen_size' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-pitot-tube-iitb/exp-pitot-tube-iitb/experiment/simulation/js/trap.js
+   4:10  warning  'generate_data' is defined but never used  no-unused-vars
+  13:10  warning  'trap' is defined but never used           no-unused-vars
+  21:10  warning  'sim1by3' is defined but never used        no-unused-vars
+  29:10  warning  'sim3by8' is defined but never used        no-unused-vars
+
+✖ 217 problems (0 errors, 217 warnings)
+
